@@ -1,10 +1,9 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "gamers-portal",
-  "compatibility_date": "2024-12-30",
+  "compatibility_date": "2024-09-23",
   "compatibility_flags": ["nodejs_compat"],
   "pages_build_output_dir": ".open-next/assets",
   "assets": {
-    "binding": "ASSETS"
+    "binding": "STATIC_ASSETS"
   }
 }
